@@ -10,11 +10,11 @@ utilizando Dart e Flutter.
 </p>
 
 <p align="left">
-  💻 <strong>Linguagens:</strong> HTML, CSS, JS, Bootstrap, Node.js, IOS, Android, Java, Dart, Flutter e um pouco de SQL.
+  💻 <strong>Linguagens:</strong> Dart, Flutter, IOS, Android, Java, HTML, CSS, JS, Bootstrap, Node.js e um pouco de SQL.
 </p>
 
 <p align="left">
-  🛠️ <strong>Ferramentas:</strong> Visual Studio, Visual Studio Code e
+  🛠️ <strong>Ferramentas:</strong> Visual Studio Code e
    Android Studio.
 </p>
 
@@ -32,3 +32,17 @@ utilizando Dart e Flutter.
   <a href="" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 </p>  
+
+## Tecnologias que uso no dia a dia
+
+<div style="display: inline_block">
+  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+</div><br/>
+
+#### Estudando neste momento:
+
+![GCP](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+
