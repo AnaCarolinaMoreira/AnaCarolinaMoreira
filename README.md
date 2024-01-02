@@ -42,7 +42,4 @@ utilizando Dart e Flutter.
   <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div><br/>
 
-#### Estudando neste momento:
-
-![GCP](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 
