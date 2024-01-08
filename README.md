@@ -28,9 +28,6 @@ utilizando Dart e Flutter.
 
   <a href="https://www.linkedin.com/in/ana-carolina-a37062180/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-
-  <a href="https://wa.me/5531982785771/?" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 </p>  
 
 ## Tecnologias que uso no dia a dia
