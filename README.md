@@ -10,7 +10,7 @@ utilizando Dart e Flutter.
 </p>
 
 <p align="left">
-  💻 <strong>Linguagens:</strong> Dart, Flutter, IOS, Android, Java, HTML, CSS, JS, Bootstrap, Node.js e um pouco de SQL.
+  💻 <strong>Linguagens:</strong> Dart, Flutter, IOS, Android, HTML, CSS, JS e um pouco de SQL.
 </p>
 
 <p align="left">
