@@ -27,7 +27,7 @@ utilizando Dart e Flutter.
   <a href="https://wa.me/553182919004" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.link/96p3z3"/></a>
   
-  <a href="mailto:anacarolina35980@gmail.com" alt="Gmail">
+  <a href="mailto:acmbldevprogltda@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/ana-carolina-a37062180/" alt="Linkedin">
