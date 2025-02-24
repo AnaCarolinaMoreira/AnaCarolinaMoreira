@@ -5,13 +5,22 @@
 <p align="left"> 
 
 Sou formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Projetos de Aplicativos Móveis Multiplataforma. 
-Trabalho como desenvolvedora mobile há 3 anos, criando aplicativos multiplataforma para Android e iOS
+Trabalho como desenvolvedora mobile há 4 anos, criando aplicativos multiplataforma para Android e iOS
 utilizando Dart e Flutter. 
 </p>
-
 <p align="left">
-  💻 <strong>Linguagens:</strong> Dart, Flutter, IOS, Android, Teste e Clean Architecture.
+  💻 <strong>Competências</strong>
 </p>
+<p align="left">
+   <strong>* Linguagens:</strong> Dart, Swift, Kotlin, Java.
+</p>
+<p align="left">
+   <strong>* Framework:</strong>Flutter.
+</p>
+<p align="left">
+  <strong>* Arquiteturas:</strong>Clean Architecture, Clean Dart, MVC, MVP, MVVM.
+</p>
+ 
 
 <p align="left">
   🛠️ <strong>Ferramentas:</strong> Visual Studio Code e
