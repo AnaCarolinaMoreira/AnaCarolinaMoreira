@@ -1,32 +1,31 @@
-###   Olá, prazer. Meu nome é Ana Carolina 👋
+###   Hello, nice to meet you. My name is Ana Carolina 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="">
 
 <p align="left"> 
-
-Sou formada em Análise e Desenvolvimento de Sistemas e pós graduada em Projetos de Aplicações Móveis Multiplataforma. Atuo há 5 anos como desenvolvedora mobile, criando aplicativos multiplataforma para Android e iOS utilizando a linguagem Dart com Flutter.    
+I have a degree in Systems Analysis and Development and a postgraduate degree in Multiplatform Mobile Application Projects. I've been working as a mobile developer for 5 years, creating multiplatform applications for Android and iOS using the Dart language with Flutter.  
 </p>
 <p align="left">
-  💻 <strong>Competências</strong>
+  💻 <strong>Skills</strong>
 </p>
 <p align="left">
-   <strong>* Linguagens:</strong> Dart, Swift, Kotlin, Java.
+   <strong>* Languages:</strong> Dart, Swift, Kotlin, Java.
 </p>
 <p align="left">
    <strong>* Framework:</strong>Flutter.
 </p>
 <p align="left">
-  <strong>* Arquiteturas:</strong>Clean Architecture, Clean Dart, MVC, MVP, MVVM.
+  <strong>* Architectures:</strong>Clean Architecture, MVC, MVP, MVVM.
 </p>
  
 
 <p align="left">
-  🛠️ <strong>Ferramentas:</strong> Visual Studio Code e
+  🛠️ <strong>Tools:</strong> Visual Studio Code and
    Android Studio.
 </p>
 
 <p align="left">
-  💌 Quer falar comigo? Só escolher um serviço abaixo: ⤵️
+  💌 Want to talk to me? Just choose a service below: ⤵️
 </p>
 
 <p align="left">
@@ -41,7 +40,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas e pós graduada em Projeto
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>  
 
-## Tecnologias que uso no dia a dia
+## Technologies I use on a daily basis
 
 <div style="display: inline_block">
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
