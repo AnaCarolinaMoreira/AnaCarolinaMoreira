@@ -4,9 +4,7 @@
 
 <p align="left"> 
 
-Sou formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Projetos de Aplicativos Móveis Multiplataforma. 
-Trabalho como desenvolvedora mobile há 4 anos, criando aplicativos multiplataforma para Android e iOS
-utilizando Dart e Flutter. 
+Sou formada em Análise e Desenvolvimento de Sistemas e pós graduada em Projetos de Aplicações Móveis Multiplataforma. Atuo há 5 anos como desenvolvedora mobile, criando aplicativos multiplataforma para Android e iOS utilizando a linguagem Dart com Flutter.    
 </p>
 <p align="left">
   💻 <strong>Competências</strong>
