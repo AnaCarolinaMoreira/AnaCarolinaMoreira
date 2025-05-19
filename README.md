@@ -9,7 +9,7 @@ I have a degree in Systems Analysis and Development and a postgraduate degree in
   💻 <strong>Skills</strong>
 </p>
 <p align="left">
-   <strong>* Languages:</strong> Dart, Swift, Kotlin, Java.
+   <strong>* Languages:</strong> Dart, Swift, Kotlin.
 </p>
 <p align="left">
    <strong>* Framework:</strong>Flutter.
